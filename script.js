@@ -39,7 +39,7 @@ function abc(){
 }
 
 
-setTimeout(function() { abc(); }, 5000);
+setTimeout(function() { abc(); }, 9000);
 
 function hidePopup(){
   $('#myModal').css("display","none"); 
